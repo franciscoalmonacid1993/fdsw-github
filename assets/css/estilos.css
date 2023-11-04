@@ -13,6 +13,12 @@ body {
 
 /* Mis trabajos */
 
+#Mis-trabajos .col-12{
+  display: flex;
+  align-items: stretch;
+  text-align: justify;
+}
+
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
